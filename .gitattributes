@@ -1,5 +1,5 @@
 myintro.cmd linguist-generated=true
 myintro linguist-generated=true
-*.* linguist-language=Dart
+*.* linguist-language=Javscript
 
 project-docs/* linguist-documentation
